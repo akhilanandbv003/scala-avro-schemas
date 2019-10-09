@@ -95,35 +95,12 @@
             <path>
               <item name="scala-avro-schemas" type="b2602c69:ProjectViewProjectNode" />
               <item name="scala-avro-schemas" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scala-avro-schemas" type="b2602c69:ProjectViewProjectNode" />
               <item name="scala-avro-schemas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala-avro-schemas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala-avro-schemas" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="avro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala-avro-schemas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala-avro-schemas" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala-avro-schemas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala-avro-schemas" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="university" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
