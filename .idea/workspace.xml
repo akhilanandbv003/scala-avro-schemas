@@ -1,7 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8e8472f-2647-4897-9dc3-e9ff45615278" name="Default Changelist" comment="" />
+    <list default="true" id="a8e8472f-2647-4897-9dc3-e9ff45615278" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_9_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_9_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_9_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_avro_avro_1_9_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_compress_1_18_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/scala-avro-schemas-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/scala-avro-schemas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$f1ca83e242a8cff0c42c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$f1ca83e242a8cff0c42c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$f1ca83e242a8cff0c42c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$14b39c2a81682b181077$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$14b39c2a81682b181077.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$14b39c2a81682b181077.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$197bd7971fc7cc28b8ef$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$197bd7971fc7cc28b8ef.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$197bd7971fc7cc28b8ef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2533041ed65813f1905b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2533041ed65813f1905b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2533041ed65813f1905b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2e03343d24395d566db0$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2e03343d24395d566db0.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2e03343d24395d566db0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7a434366b01e41afd4a3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7a434366b01e41afd4a3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7a434366b01e41afd4a3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8002496e243b508ce356$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8002496e243b508ce356.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8002496e243b508ce356.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a50fb337ebbf4189b42d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a50fb337ebbf4189b42d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a50fb337ebbf4189b42d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e54c275816b006d3d4b5$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e54c275816b006d3d4b5.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e54c275816b006d3d4b5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/_global/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileSourceFileInputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/managedSourcePaths/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/avro/Professor.avsc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/avro/student.avsc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/examples/schemas/university/Professor.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/examples/schemas/university/Student.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/avro/in-cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/avro/out-cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/examples/schemas/university/Professor$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/examples/schemas/university/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/examples/schemas/university/Student$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/examples/schemas/university/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/clean/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileSourceFileInputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/managedSourcePaths/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/avroScalaGenerateSpecific/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.12.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -40,20 +170,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/examples/schemas/university/Student.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+              <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -104,11 +225,6 @@
             <path>
               <item name="scala-avro-schemas" type="b2602c69:ProjectViewProjectNode" />
               <item name="scala-avro-schemas" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala-avro-schemas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala-avro-schemas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -149,6 +265,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="add_unversioned_files" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/avro" />
   </component>
   <component name="RecentsManager">
@@ -218,14 +335,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="973" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.43931258" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.3291536" />
       <window_info anchor="bottom" id="SBT Console" />
@@ -302,13 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/avro/student.avsc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/examples/schemas/university/Professor.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -323,10 +434,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/avro/Student.avsc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>
